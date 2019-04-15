@@ -2,13 +2,24 @@
     "name": "vscode-fintory",
     "displayName": "vscode-fintory",
     "description": "Tooling kit at Fintory",
-    "version": "1.0.0",
+    "version": "1.0.1",
+    "publisher": "visualcookie",
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.33.0"
     },
     "categories": [
         "Extension Packs"
     ],
+    "bugs": {
+        "url": "https://github.com/visualcookie/vscode-fintory/issues",
+        "email": "hello@visualcookie.me"
+    },
+    "homepage": "https://github.com/visualcookie/vscode-fintory/blob/master/README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/visualcookie/vscode-fintory.git"
+    },
     "extensionPack": [ 
         "dsznajder.es7-react-js-snippets",
         "EditorConfig.EditorConfig",
