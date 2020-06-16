@@ -1,8 +1,8 @@
 {
     "name": "vscode-fintory",
     "displayName": "vscode-fintory",
-    "description": "Tooling kit at Fintory",
-    "version": "1.0.1",
+    "description": "Extension pack for our development environment at Fintory.",
+    "version": "1.1.0",
     "publisher": "visualcookie",
     "icon": "icon.png",
     "engines": {
@@ -20,21 +20,21 @@
         "type": "git",
         "url": "https://github.com/visualcookie/vscode-fintory.git"
     },
-    "extensionPack": [ 
+    "extensionPack": [
+        "steoates.autoimport",
+        "coenraads.bracket-pair-colorizer-2",
+        "naumovs.color-highlight",
+        "joelday.docthis",
+        "mikestead.dotenv",
+        "editorconfig.editorconfig",
+        "usernamehw.errorlens",
         "dsznajder.es7-react-js-snippets",
-        "EditorConfig.EditorConfig",
         "dbaeumer.vscode-eslint",
         "sleistner.vscode-fileutils",
-        "flowtype.flow-for-vscode",
+        "codezombiech.gitignore",
         "eamodio.gitlens",
-        "christian-kohler.npm-intellisense",
-        "christian-kohler.path-intellisense",
-        "esbenp.prettier-vscode",
-        "jpoissonnier.vscode-styled-components",
-        "gamunu.vscode-yarn",
-        "wix.vscode-import-cost",
-        "CoenraadS.bracket-pair-colorizer-2",
-        "naumovs.color-highlight",
-        "aaron-bond.better-comments"
+        "alefragnani.project-manager",
+        "ms-vscode.sublime-keybindings",
+        "pflannery.vscode-versionlens"
     ]
 }
