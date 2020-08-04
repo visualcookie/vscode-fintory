@@ -6,7 +6,7 @@
     "publisher": "visualcookie",
     "icon": "icon.png",
     "engines": {
-        "vscode": "latest"
+        "vscode": "^1.33.0"
     },
     "categories": [
         "Extension Packs"
