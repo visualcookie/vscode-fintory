@@ -2,11 +2,11 @@
     "name": "vscode-fintory",
     "displayName": "vscode-fintory",
     "description": "Extension pack for our development environment at Fintory.",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "publisher": "visualcookie",
     "icon": "icon.png",
     "engines": {
-        "vscode": "^1.33.0"
+        "vscode": "latest"
     },
     "categories": [
         "Extension Packs"
@@ -35,6 +35,8 @@
         "eamodio.gitlens",
         "alefragnani.project-manager",
         "ms-vscode.sublime-keybindings",
-        "pflannery.vscode-versionlens"
+        "pflannery.vscode-versionlens",
+        "snipsnapdev.snipsnap-vscode",
+        "antfu.i18n-ally"
     ]
 }
